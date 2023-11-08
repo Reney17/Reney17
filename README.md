@@ -1,4 +1,4 @@
-![banner](https://gifer.com/JXA0)
+![https://gifer.com/JXA0](https://i.gifer.com/JXA0.gif)
 
 <h1 align="center">Hi 👋, I'm Nicolette Mashaba</h1>
 <h3 align="center">A passionate software developer student from South Africa</h3>
