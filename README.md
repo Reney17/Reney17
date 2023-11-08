@@ -1,4 +1,4 @@
-![](https://github.com/Reney17/https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif)
+
 
 <h1 align="center">Hi 👋, I'm Nicolette Mashaba</h1>
 <h3 align="center">A passionate software development student from South Africa</h3>
