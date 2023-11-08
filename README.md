@@ -1,4 +1,4 @@
-![banner](https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif)
+![banner](https://gifer.com/JXA0)
 
 <h1 align="center">Hi 👋, I'm Nicolette Mashaba</h1>
 <h3 align="center">A passionate software developer student from South Africa</h3>
