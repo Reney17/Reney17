@@ -1,4 +1,4 @@
-[![MasterHead]([https://i.gifer.com/JXA0.gif](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2FCzdMW7wnLn8AAAAM%2Fcoding.gif&tbnid=vp2BJbdvNyS-8M&vet=12ahUKEwjqidLzqLSCAxXIrycCHXQ1DyAQMygIegQIARBx..i&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&docid=wC1y6bJ6OPI5TM&w=220&h=124&q=coding%20banner%20gifs&client=avast-a-2&ved=2ahUKEwjqidLzqLSCAxXIrycCHXQ1DyAQMygIegQIARBx))]
+[![]([https://i.gifer.com/JXA0.gif](https://www.google.com/imgres?imgurl=https%3A%2F%2Fmedia.tenor.com%2FCzdMW7wnLn8AAAAM%2Fcoding.gif&tbnid=vp2BJbdvNyS-8M&vet=12ahUKEwjqidLzqLSCAxXIrycCHXQ1DyAQMygIegQIARBx..i&imgrefurl=https%3A%2F%2Ftenor.com%2Fsearch%2Fcoding-gifs&docid=wC1y6bJ6OPI5TM&w=220&h=124&q=coding%20banner%20gifs&client=avast-a-2&ved=2ahUKEwjqidLzqLSCAxXIrycCHXQ1DyAQMygIegQIARBx))]
 <h1 align="center">Hi 👋, I'm Nicolette Mashaba</h1>
 <h3 align="center">A passionate software developer student from South Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
