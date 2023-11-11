@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **nene171408@gmail.com**
 
-- ⚡ Fun fact **I am a wife,a mother of two and was in the navy**
+- ⚡ Fun fact **I am a mother of two and was in the navy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
