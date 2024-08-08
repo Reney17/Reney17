@@ -2,7 +2,7 @@
 ![MasterHead](https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif)
 
 <h1 align="center">Hi 👋, I'm Nicolette Mashaba</h1>
-<h3 align="center">A passionate software development student from South Africa</h3>
+<h3 align="center">A passionate web developer and aspiring software engineer from South Africa</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
 - 🔭 I’m currently working on **python,web-development and database**
