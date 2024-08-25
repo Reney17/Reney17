@@ -1,6 +1,6 @@
 
 <div style="text-align:center;">
-  <img src="https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif" alt="MasterHead" style="width: 100%; max-width: 100%;">
+  <img src="https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif" alt="MasterHead" style="width: 100vw; height: auto">
 </div>
 
 
