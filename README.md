@@ -5,7 +5,7 @@
 <h3 align="center">A passionate aspiring software engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif">
 
-- 🌱 I’m currently learning **Reactjs** studying software engineering
+- 🌱 I’m currently learning **Reactjs and studying software engineering**
 
 - 👨‍💻 All of my projects are available at [https://whimsical-salmiakki-b5171c.netlify.app/](https://whimsical-salmiakki-b5171c.netlify.app/)
 
