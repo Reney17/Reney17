@@ -1,5 +1,8 @@
 
-![MasterHead](https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif)
+<div style="text-align:center;">
+  <img src="https://media.tenor.com/CzdMW7wnLn8AAAAC/coding.gif" alt="MasterHead" style="width: 100%; max-width: 100%;">
+</div>
+
 
 <h1 align="center">Hi 👋, I'm Nicolette Mashaba</h1>
 <h3 align="center">A passionate aspiring software engineer</h3>
