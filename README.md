@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://whimsical-salmiakki-b5171c.netlify.app/](https://whimsical-salmiakki-b5171c.netlify.app/)
 
-- 💬 Ask me about **react,javascripy,python,css,tailwind**
+- 💬 Ask me about **react,javascript,python,tailwindcss,nodejs**
 
 - 📫 How to reach me **nene171408@gmail.com**
 
